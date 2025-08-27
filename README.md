@@ -1,9 +1,5 @@
 # Hi there, I'm Pinak Dhabu 👋
 
-<div align="center">
-  <img src="https://your-image-url.com/profile-picture.png" alt="Pinak Dhabu's Profile Picture" width="200" height="200" style="border-radius:50%;"/>
-</div>
-
 ---
 
 ### 👨‍💻 About Me
@@ -15,9 +11,8 @@ I am a passionate and dedicated Computer Engineering student currently in my thi
 - 👯 I’m looking to collaborate on open-source projects.
 - 🤔 I’m looking for help with advanced data structures and algorithms.
 - 💬 Ask me about anything, I am happy to help.
-- 📫 How to reach me: [Your Email Address]
+- 📫 How to reach me: <pinakdhabu2005@gmail.com>
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: [A fun fact about you!]
 
 ---
 
@@ -42,8 +37,8 @@ Here are some of the technologies I'm proficient in:
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="Your GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pinakdhabu&show_icons=true&theme=radical" alt="Your GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pinakdhabu&layout=compact&theme=radical" alt="Top Langs" />
 </p>
 
 ---
@@ -53,17 +48,13 @@ Here are some of the technologies I'm proficient in:
 You can find me on the following platforms:
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-profile/" target="_blank">
+  <a href="https://www.linkedin.com/in/pinakdhabu2005" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/your-twitter-handle" target="_blank">
+  <a href="https:/x.com/PinakDhabu" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="mailto:your.email@example.com" target="_blank">
+  <a href="mailto:pinakdhabu2005@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
-
----
-
-*This README was generated with ❤️ by Jules.*
