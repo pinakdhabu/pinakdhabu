@@ -11,7 +11,7 @@ I am a passionate and dedicated Computer Engineering student currently in my thi
 - 👯 I’m looking to collaborate on open-source projects.
 - 🤔 I’m looking for help with advanced data structures and algorithms.
 - 💬 Ask me about anything, I am happy to help.
-- 📫 How to reach me: [here](mailto:pinakdhabu2005@gmail.com)
+- 📫 How to reach me: [here](mailto:pinakdhabu@cc.cc)
 - 😄 Pronouns: He/Him
 
 ---
