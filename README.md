@@ -58,3 +58,8 @@ You can find me on the following platforms:
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
+
+<p align="center">
+  <samp>"Code. Break. Rebuild. Repeat."</samp><br>
+  <img src="https://komarev.com/ghpvc/?username=pinakdhabu&color=blueviolet&style=flat-square" />
+</p>
