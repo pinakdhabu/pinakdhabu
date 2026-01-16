@@ -36,10 +36,7 @@ Here are some of the technologies I'm proficient in:
 
 ### 📊 My GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pinakdhabu&show_icons=true&theme=radical" alt="Your GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pinakdhabu&layout=compact&theme=radical" alt="Top Langs" />
-</p>
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/pinakdhabu?cardType=github&theme=tokyonight&fontFamily=Cascadia%20Mono&preferLogin=true)](https://git.io/awesome-stats-card)
 
 ---
 
